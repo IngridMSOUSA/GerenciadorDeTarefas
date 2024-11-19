@@ -1,7 +1,8 @@
-Gerenciador de Tarefas
+Gerenciador de Tarefas:
+
 Este é um sistema básico de gerenciamento de tarefas, desenvolvido com PHP, MySQL e front-end em HTML/CSS/Bootstrap. Ele permite que os usuários se cadastrem, façam login e gerenciem suas tarefas (CRUD de tarefas).
 
-Funcionalidades
+Funcionalidades:
 
 Cadastro de Usuário : Os usuários podem criar uma conta com um nome de usuário, senha e email.
 Login e Logout : O sistema autentica os usuários e permite logout seguro.
@@ -16,7 +17,7 @@ tasks.php: Página principal de tarefas, onde o usuário pode gerenciar suas tar
 logout.php: Página que encerra a sessão do usuário.
 edit_task.phpe delete_task.php: Páginas para editar e excluir tarefas.
 
-Banco de Dados
+Banco de Dados:
 O sistema utiliza um banco de dados MySQL com duas tabelas:
 
 usuários : Armazena informações de login dos usuários.
